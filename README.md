@@ -1,4 +1,5 @@
 MAVLink Sensor Simulator GUI
+
 This repository contains a Python script that connects to MAVProxy and sends MAVLink PARAM_VALUE messages that emulate a  CO2 and a HD CO2 parameter. 
 The script includes a GUI for controlling the parameter values and the frequency of the messages.
 
